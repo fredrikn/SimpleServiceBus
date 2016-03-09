@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ServiceBus.Client.TestClient/bin/Debug
+/ServiceBus.Client.TestClient/obj/Debug
+/ServiceBus.Host/bin/Debug
+/ServiceBus.Host/obj/Debug
+/ServiceBus.Host.TestHost/bin/Debug
+/ServiceBus.Host.TestHost/obj/Debug
+/ServiceBus.TestCommand/bin/Debug
+/ServiceBus.TestCommand/obj/Debug
