@@ -53,7 +53,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ServiceBus.Host\ServiceBus.csproj">
+    <ProjectReference Include="..\ServiceBus\ServiceBus.csproj">
       <Project>{c2fb6c54-3320-4518-ba22-213bcdf359fb}</Project>
       <Name>ServiceBus</Name>
     </ProjectReference>
